@@ -1,0 +1,9 @@
+# Optional dependencies (not required to run the Streamlit dashboard)
+# Install these if you want to use voice capture, Whisper transcription or X-Plane integration
+
+sounddevice
+scipy
+numpy
+openai-whisper
+XPlaneConnect
+plotly
